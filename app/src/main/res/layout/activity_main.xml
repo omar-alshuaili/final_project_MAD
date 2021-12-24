@@ -36,6 +36,9 @@
             android:enabled="false"
             android:onClick="goToSequence"
             android:text="Go" />
+
+
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
